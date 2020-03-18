@@ -17,13 +17,51 @@ body {
 	background-color: white
 }
 
-H5, P1 {
-	background-color: white
+h5 {
+	background-color: white;
+	width: 300px;
+	height: 25px;
+	text-align: center;
+	margin: 0 auto;
 }
+
+h6 {
+background-color: white;
+width: 300px;
+height: 40px;
+text-align: center;
+margin: 0 auto;
+}
+
+div1 {
+	display: inline-block;
+	width: 500px;
+	height: 450px;
+	
+}
+
+div2 {
+	display: inline-block;
+	width: 500px;
+	height: 400px;
+	
+}
+
+div3 {
+	display: inline-block;
+	width: 500px;
+	height: 950px;
+	
+}
+
 
 button {
 	background-color: white;
 	color: black;
 	text-decoration-color: #D8BFD8;
 	border: #D8BFD8;
+}
+
+H6, P2 {
+	font: bolder;
 }
