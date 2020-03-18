@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {
+	background-color: white;
+	color: black;
+}
+
+.my-navbar {
+	background-color: white
+}
+
+.card-body {
+	background-color: #D8BFD8
+}
+
+.btn {
+	background-color: white
+}
+
+H5, P1 {
+	background-color: white
+}
+
+button {
+	background-color: white;
+	color: black;
+	text-decoration-color: #D8BFD8;
+	border: #D8BFD8;
+}
