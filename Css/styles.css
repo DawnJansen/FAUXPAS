@@ -35,23 +35,30 @@ margin: 0 auto;
 
 div1 {
 	display: inline-block;
-	width: 500px;
-	height: 450px;
+	width: 1000px;
+	height: 250px;
+	margin: 0 auto;
 	
 }
 
 div2 {
 	display: inline-block;
-	width: 500px;
-	height: 400px;
+	width: 1000px;
+	height: 250px;
+	margin: 0 auto;
 	
 }
 
 div3 {
 	display: inline-block;
-	width: 500px;
-	height: 950px;
+	width: 1000px;
+	height: 475px;
+	margin: 0 auto;
 	
+}
+
+img1 {
+	float: right;
 }
 
 
